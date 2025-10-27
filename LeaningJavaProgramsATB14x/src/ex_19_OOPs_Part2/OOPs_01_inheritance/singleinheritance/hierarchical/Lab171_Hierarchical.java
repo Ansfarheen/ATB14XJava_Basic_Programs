@@ -5,7 +5,7 @@ public class Lab171_Hierarchical {
         Pramod p1= new Pramod();
         p1.h2();
         p1.home();
-        
+
         Lucky l1= new Lucky();
         l1.l2();
         l1.home();
