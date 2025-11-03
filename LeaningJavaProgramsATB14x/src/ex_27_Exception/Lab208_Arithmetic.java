@@ -1,0 +1,16 @@
+package ex_27_Exception;
+
+public class Lab208_Arithmetic {
+    public static void main(String[] args) {
+        int c=0;
+        int b=0;
+        try{
+            b=10/c;
+        } catch (ArithmeticException e){
+            System.out.println("Not allowed");
+        }
+        catch (Throwable e){
+            System.out.println("Not allowed");
+        }
+    }
+}

@@ -1,0 +1,7 @@
+package ex_30_Collection_Framework;
+
+public class Lab226_Array_Problem {
+    public static void main(String[] args) {
+
+    }
+}
